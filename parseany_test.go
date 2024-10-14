@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/stretchr/testify/assert"
+	"github.com/01ne/testify/assert"
 )
 
 func TestOne(t *testing.T) {

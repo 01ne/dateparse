@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/araddon/dateparse"
-	"github.com/scylladb/termtables"
+	"github.com/01ne/dateparse"
+	"github.com/01ne/termtables"
 )
 
 var examples = []string{

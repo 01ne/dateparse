@@ -1,9 +1,9 @@
-module github.com/araddon/dateparse
+module github.com/01ne/dateparse
 
-go 1.12
+go 1.18
 
 require (
-	github.com/mattn/go-runewidth v0.0.10 // indirect
-	github.com/scylladb/termtables v0.0.0-20191203121021-c4c0b6d42ff4
-	github.com/stretchr/testify v1.7.0
+	github.com/01ne/go-runewidth v1.0.2
+	github.com/01ne/termtables v1.0.2
+	github.com/01ne/testify v1.0.2
 )
